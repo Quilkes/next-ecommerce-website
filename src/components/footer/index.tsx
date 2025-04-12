@@ -85,7 +85,7 @@ const Footer = () => {
                 <a href="#">store@uikit.com</a>
               </li>
               <li>
-                <a href="#">Hotline: +1 131 138 138</a>
+                <a href="#">Hotline: +234 813 831 8997</a>
               </li>
             </ul>
           </div>
